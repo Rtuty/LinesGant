@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+}
+
+canvas {
+    display: block;
+    background-color: blanchedalmond;
+}
+
+div {
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color: #476fff;
+    border-radius: 20%;
+}
